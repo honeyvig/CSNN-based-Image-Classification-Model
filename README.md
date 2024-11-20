@@ -1,4 +1,4 @@
-# CSNN-based-Image-Classification-Model
+# CNN-based-Image-Classification-Model
 I would like you to develop
 
 1) A CNN and VCG16-based image classifier that would give us how likely a person has a Heart disease
